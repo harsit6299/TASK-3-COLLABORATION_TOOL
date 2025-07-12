@@ -12,9 +12,7 @@ A powerful, lightweight **real-time collaboration app** built using **Socket.IO*
 - 🧠 **Typing Indicators**, user presence tracking, and live updates
 - 📱 **Responsive UI** optimized for all devices
 
----
-## 🌐 Live demo
-[Collaboration tool](https://garimakushh.github.io/TASK-3_CollaborationTool/)
+
 
 ---
 
